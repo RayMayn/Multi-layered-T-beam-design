@@ -16,22 +16,22 @@ This is the first version of the app so bear with me.
 
 Inputs are:
 fc'=compressive strength of concrete [17:28-55]MPa
-fy =yield strength of steel[276-414/420]MPa
-db =diameter of main/horizontal bars,mm
-dv =diameter of stirrups,mm
-dagg =diameter of aggregates,mm
-cc =concrete cover, mm
-l =length of beam,mm
-ln =clear span of beam,mm
-ln,left =clear span of left adjacent slab,mm
-ln,right =clear span of right adjacent slab,mm
-bw = width of beam cross section,mm
-tf =thickness of flange/slab,mm
+ fy =yield strength of steel[276-414/420]MPa
+ db =diameter of main/horizontal bars,mm
+ dv =diameter of stirrups,mm
+ dagg =diameter of aggregates,mm
+ cc =concrete cover, mm 
+ l =length of beam,mm 
+ ln =clear span of beam,mm 
+ ln,left =clear span of left adjacent slab,mm 
+ ln,right =clear span of right adjacent slab,mm 
+ bw = width of beam cross section,mm 
+ tf =thickness of flange/slab,mm 
 
-beam geometry(ss[simply supported],oec[one end continuous],bec[both end continuous],c[cantilever])
-h=heigth of beam,mm
-Moment demands,KNm=you got to compute for this, common load combination (1.2*Deadload moment+1.6*Liveload moment)
-Shear demands,KN=solve this too, use the same load combination(1.2*Deadload shear+1.6*Liveload shear)
+ beam geometry(ss[simply supported],oec[one end continuous],bec[both end continuous],c[cantilever]) 
+ h=heigth of beam,mm 
+ Moment demands,KNm=you got to compute for this, common load combination (1.2*Deadload moment+1.6*Liveload moment) 
+ Shear demands,KN=solve this too, use the same load combination(1.2*Deadload shear+1.6*Liveload shear) 
 
 
 Outputs are:
