@@ -42,3 +42,5 @@ Number of stirrups.
 Computation will be added later.
 
 Updates will be done as soon as possible.
+
+Donate on my PayPal PayPal.Me/raymayn as I make more applications
